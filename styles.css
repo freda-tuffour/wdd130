@@ -1,13 +1,13 @@
 /* .styles/styles.css */
 
 nav {
-    background-color: transparent;
+    background-color: #730808;
     padding: 10px;
 }
 
 nav a {
     display: block;
-    color: #0A2373;
+    color: #fff;
     padding: 5px;
 }
 
