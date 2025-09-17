@@ -1,5 +1,16 @@
 /* .styles/styles.css */
 
+nav {
+    background-color: transparent;
+    padding: 10px 5px;
+}
+
+nav a {
+    display: block;
+    color: #0A2373;
+    padding: 5px;
+}
+
 main {
     max-width: 840px;
 }
@@ -12,16 +23,7 @@ main img {
     box-shadow: 2px 2px 4px;
 }
 
-nav {
-    background-color: transparent;
-    padding: 10px 5px;
-}
 
-nav a {
-    display: block;
-    color: #0A2373;
-    padding: 5px;
-}
 
 h1 { color: #000; )
 
