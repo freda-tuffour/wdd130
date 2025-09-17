@@ -1,3 +1,5 @@
+/*./styles.css */
+
 main {
     max-width: 840px;
 }
@@ -5,11 +7,28 @@ main {
 main img {
     width: 150px;
     height: auto;
+    border: 1px solid #8F8686;
+    padding: 1px;
+    box-shadow: 2px 2px 4px;
 }
 
+nav {
+    backgound-color: #000;
+    padding: 10px 5px;
+}
+
+nav a {
+    display: block;
+    color: #0A2373;
+    padding: 5px;
+}
+
+h1 { color: #000; )
+
 aside {
-    width: 20rem;
+    width: 200px;
     margin: 1rem;
+    height: auto;
     border: 1px solid rgb(0, 0, 0 / 0.2 ) /* 1 */;
     padding: 1rem;
     background-color: #eee;
@@ -19,7 +38,7 @@ aside {
 
 aside img {
     width: 200px;
-    hieght: auto;
+    height: auto;
 }
 
 p { 
